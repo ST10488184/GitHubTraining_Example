@@ -11,6 +11,6 @@ package com.mycompany.githubtraining_example;
 public class GitHubTraining_Example {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello Students!");
     }
 }
